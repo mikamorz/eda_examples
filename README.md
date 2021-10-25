@@ -8,6 +8,13 @@ A repository containing data engineering and data analysis projects.
 * The Jupyter notebook contains the code details about the analysis performed.
 * The report contains the analysis along with the insights.
 
+### 2. Churn Rate - Predictive statistics
+
+#### There are different approaches one required to analyse one's datasets numerous statistical tests.  
+
+* The Jupyter notebook contains the code details about the analysis performed.
+* The report contains the analysis along with the insights.
+
 ###-----------------------------------
 #### Convert JPYNB to the PDF-file/PY-script. 
 * Just run the export_to_pdf.ipynb.
