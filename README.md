@@ -5,10 +5,16 @@ A repository containing data engineering and data analysis projects.
 
 * analytics_vidia_EDA_step_by_step
 
-> EDA step-by-step
+> EDA step-by-step<br>
 > [:orange_book: Notebook](/analytics_vidia_EDA_step_by_step/EDA.set-by-step.ipynb)
 
 * automobile_data
+
+> **EDA** with ECDF and Correlation analysis.<br>
+> Preprocessing and Feature engineering.<br>
+> **L1 (Lasso) Regression** and **Random Forest Regressor** (cross-validation, grid search and plots of feature importance).<br>
+> [:orange_book: Notebook](/automobile_data/Predictive_Modeling_Price.ipynb)
+
 * bank_loan_prediction
 * churn_rate
 * class_balancing
