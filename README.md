@@ -4,6 +4,10 @@
 A repository containing data engineering and data analysis projects.
 
 * analytics_vidia_EDA_step_by_step
+
+> EDA step-by-step
+> [:orange_book: Notebook](/analytics_vidia_EDA_step_by_step/EDA.set-by-step.ipynb)
+
 * automobile_data
 * bank_loan_prediction
 * churn_rate
